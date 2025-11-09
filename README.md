@@ -3,6 +3,8 @@
 </h1>
   
 <p align="center">
+  📝 <a href="https://pub.sakana.ai/sudoku">[Leaderboard]</a>
+  📝 <a href="https://arxiv.org/abs/2505.16135">[Technical Report (arXiv)]</a>
   🤗 <a href="https://huggingface.co/datasets/SakanaAI/Sudoku-Bench">[Sudoku-Bench puzzle dataset]</a><br>
   🤗 <a href="https://huggingface.co/datasets/SakanaAI/Sudoku-CTC-Reasoning">[Sudoku-CTC-Reasoning dataset]</a><br>
   📝 <a href="https://sakana.ai/sudoku-bench">[Blog Post]</a>
